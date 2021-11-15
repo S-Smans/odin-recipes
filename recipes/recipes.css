@@ -1,0 +1,14 @@
+h1 {
+    text-align: center;
+    background-color: rgb(96, 126, 153);
+    padding: 10px;
+}
+
+img {
+    float: right;
+    margin-right: 40px;
+}
+
+p, li{
+    margin-right: 40%;
+}
